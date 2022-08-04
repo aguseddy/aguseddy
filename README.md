@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @aguseddy
+- 👀 I’m interested in Deep Learning using Python
